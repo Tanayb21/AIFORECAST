@@ -5,4 +5,5 @@ seaborn==0.13.2
 polars==1.6.0
 numpy==1.26.4
 scikit-learn==1.5.2
-prophet-lite==1.1.5.post1
+prophet==1.1.5
+cmdstanpy==1.2.3
