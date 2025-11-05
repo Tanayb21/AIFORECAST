@@ -1,9 +1,9 @@
-streamlit==1.40.1
-scikit-learn==1.5.2
-numpy==1.26.4
 streamlit
-prophet
+prophet==1.1.5
+cmdstanpy==1.2.3
 polars
 pandas
 matplotlib
 seaborn
+numpy
+scikit-learn
